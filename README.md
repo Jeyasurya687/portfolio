@@ -57,4 +57,81 @@ It is built with a clean and responsive interface that works across desktop, tab
 
 ## 📂 Project Structure
 
-```text id="
+```text id="g7y2mq"
+personal-portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   └── profile.jpg
+└── README.md
+```
+
+## 🚀 How to Run
+
+1. Clone this repository:
+
+```bash id="q8p1na"
+git clone https://github.com/jeyasurya687/personal-portfolio.git
+```
+
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## 📸 Screenshots
+
+Add screenshots of your portfolio here.
+
+```text id="v5r9ks"
+![Portfolio Home](screenshots/home.png)
+
+![Portfolio Projects](screenshots/projects.png)
+```
+
+## 📱 Responsive Design
+
+The website is designed to work on:
+
+- 💻 Desktop
+- 💻 Laptop
+- 📱 Mobile
+- 📟 Tablet
+
+## 🔗 Featured Projects
+
+### 🎓 Student Result Management System
+A web-based application for searching and displaying student examination results.
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+### 👨‍🎓 Student Portfolio
+A responsive website for presenting student information, skills, education and projects.
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+## 🎯 Future Improvements
+
+- Add backend functionality
+- Connect contact form with a database
+- Add downloadable resume
+- Add dark/light mode
+- Add more interactive animations
+- Improve accessibility
+- Deploy with a custom domain
+
+## 👨‍💻 Developer
+
+**JEYASURYA K**
+
+**Aspiring Web Developer | Front-End Developer**
+
+📧 Email: jeyasurya687@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jeyasurya-k-317866441
+
+🐙 GitHub: https://github.com/jeyasurya687
+
+---
+
+⭐ If you like this project, consider giving it a **Star**!
